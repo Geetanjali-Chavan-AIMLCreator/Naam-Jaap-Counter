@@ -1,0 +1,6 @@
+{
+  "name": "Naam Jaap Counter",
+  "description": "Spiritual Naam Jaap counter for daily chanting consistency, tracking malas, deities, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
